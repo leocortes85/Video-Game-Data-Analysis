@@ -55,7 +55,7 @@ The analysis is presented in three main reports:
 3. Console Market Report: Explores the video game console market.
    ![Console Market Report](images/Report3.png)
 
-The reports were created in Power BI and compiled into a final written report in PDF format.
+The reports were created in Power BI and compiled into a final written report in PDF format (Analysis_Report folder).
 
 ## Contact
 
@@ -117,7 +117,7 @@ El análisis se presenta en tres informes principales:
 ![Console Market Report](images/Report3.png)
 
 
-Los informes se crearon en Power BI y se recopilaron en un informe escrito final en formato PDF.
+Los informes se crearon en Power BI y se recopilaron en un informe escrito final en formato PDF (Carpeta Analisys_Report).
 
 ## Contacto
 
