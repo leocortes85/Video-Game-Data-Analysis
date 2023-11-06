@@ -1,6 +1,6 @@
 # Video Game Data Analysis
  Practice for Data Analitics
-![Analysis](images/Gaming Portada.gif)
+![Analysis](images/Gaming_Portada.gif)
 
 # EN: Data Analysis Project - Video Games
 
