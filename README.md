@@ -75,33 +75,34 @@ Además de la limpieza, se completaron valores faltantes en varias columnas clav
 
 Como resultado, se creó una tabla final que contiene las siguientes columnas:
 
-Id_Game: Identificador del juego.
-Name: Nombre del juego.
-Developer: Empresa desarrolladora del juego.
-Platform: Consola o plataforma para la que se desarrolla el juego.
-Release: Año de lanzamiento.
-Genre: Género del juego.
-Rating: Clasificación por edades (ESRB).
-Ranking: Posición del juego según ventas y popularidad.
-Average_Playtime: Tiempo promedio de juego por parte de los usuarios.
-Score: Calificación de los usuarios.
-NA_Sales: Ventas en Norteamérica.
-EU_Sales: Ventas en Europa.
-JP_Sales: Ventas en Japón.
-Other_Sales: Ventas en el resto del mundo.
-Global_Sales: Ventas totales.
+- Id_Game: Identificador del juego.
+- Name: Nombre del juego.
+- Developer: Empresa desarrolladora del juego.
+- Platform: Consola o plataforma para la que se desarrolla el juego.
+- Release: Año de lanzamiento.
+- Genre: Género del juego.
+- Rating: Clasificación por edades (ESRB).
+- Ranking: Posición del juego según ventas y popularidad.
+- Average_Playtime: Tiempo promedio de juego por parte de los usuarios.
+- Score: Calificación de los usuarios.
+- NA_Sales: Ventas en Norteamérica.
+- EU_Sales: Ventas en Europa.
+- JP_Sales: Ventas en Japón.
+- Other_Sales: Ventas en el resto del mundo.
+- Global_Sales: Ventas totales.
 
 Para facilitar el análisis en Power BI, se generaron tablas dimensionales basadas en las columnas de Género, Desarrollador, Plataforma y Clasificación por edades. Además, se creó una tabla que incluye datos de tiempo de juego promedio y otra que recopila las ventas por región. Estas tablas auxiliares se relacionaron con la tabla principal mediante identificadores.
 
 El resultado final es una tabla principal con la estructura mencionada y tablas auxiliares:
 
-developer
-platform
-genre
-rating
-games_main
-Region_Sales
-Avg_Time_Steam
+- developer
+- platform
+- genre
+- rating
+- games_main
+- Region_Sales
+- Avg_Time_Steam
+
 El proyecto también incluye la definición de diferentes KPI (Key Performance Indicators) que permiten establecer el objetivo de análisis. Estos KPI se implementaron en Power BI mediante la creación de medidas que facilitan la visualización de soluciones y resultados.
 
 El análisis se presenta en tres informes principales:
