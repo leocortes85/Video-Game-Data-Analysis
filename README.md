@@ -119,10 +119,12 @@ El análisis se presenta en tres informes principales:
 
 Los informes se crearon en Power BI y se recopilaron en un informe escrito final en formato PDF.
 
-Contacto
+## Contacto
+
 Para cualquier consulta o información adicional, no dudes en ponerte en contacto a través de este repositorio de GitHub.
 
-Créditos
+## Créditos
+
 Agradecemos a todo el equipo de "Soy Henry" y a los autores de los conjuntos de datos utilizados en este proyecto.
 
 Nota: Las imágenes de informes mencionadas en este resumen están disponibles en el repositorio del proyecto.
